@@ -5,11 +5,11 @@
 Security engineer working at the intersection of **cybersecurity and AI** — moving from traditional security toward **AI security & AI governance**, with a focus on building practical tooling that makes AI adoption both defensible and auditable.
 
 ### 🛡️ What I work on
-- **Security Operations (SecOps)** — built an **AI-powered SOC** with autonomous agents
-- **Security Awareness** — a fully automated awareness workflow driven by AI computer-use agents
-- **Email security** & phishing defense
-- **Endpoint security** — an AI-agent-powered **Microsoft Intune auditor**
-- **AI security** — securing how the business adopts AI
+- **Security Operations (SecOps)**
+- **Security Awareness**
+- **Email security**
+- **Endpoint security**
+- **AI security**
 
 ### 🤖 AI governance — my focus
 - Delivered a full **EU AI Act high-risk assessment** for an AI-powered HR app: **risk assessment · DPIA · bias audit**
